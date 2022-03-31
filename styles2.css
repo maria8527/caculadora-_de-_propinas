@@ -1,0 +1,107 @@
+table {
+    margin:auto;
+    width: auto;
+
+}
+h1{
+    color: white;
+}
+
+div.numero1{
+    border: 2px solid black;
+ height: 100px;
+ width: 800px;
+ margin: auto;
+ background-color: black;
+ font-family: cursive;
+}
+
+div.numero2{
+    border: 2px solid black;
+    height: 500px;
+ width: 800px;
+ margin: auto;
+margin-top: 10px;
+background-color: black;
+}
+ p.total{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+ }
+
+ p.porcentaje{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+ }
+
+ input.uno{
+     margin-left: 30px;
+ }
+
+ input.dos {
+    margin-left: 30px; 
+ }
+
+ button{
+    height: auto;
+    width: auto;
+    padding: auto;
+    text-align: center;
+ }
+
+ h2{
+    color: black;
+ }
+
+ p.cuenta{
+    color: black;
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+ }
+
+ p.propina{
+    color: black;
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+ }
+
+ p.pagar{
+    color: black;
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+ 
+ }
+
+ table.numero3{
+     border: 2px solid white;
+     height: 100px;
+ width: 500px;
+ margin: auto;
+margin-top: 10px;
+ border-radius: 20px;
+ background-color: white;
+
+ }
+
+ input.tres{
+    margin-left: 180px; 
+    border: white;
+  
+ }
+ input.cuatro{
+    margin-left: 180px; 
+    border: white;
+  
+ }
+ input.cinco{
+    margin-left: 180px; 
+    border: white;
+  
+ }
